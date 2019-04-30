@@ -1,0 +1,32 @@
+
+				  	                                                INSTRUCCIONES
+
+	                                              El juego consiste en despejar todas las casillas de una pantalla que no oculten 
+	                                              una mina. 
+	                                              Algunas casillas tienen un numero, este número indica las minas que suman todas 
+	                                              las casillas circundantes.  
+
+	                                              -Si se descubre una casilla sin número, indica que ninguna de las casillas 
+	                                               vecinas tiene mina y estas se descubren automáticamente. 
+
+	                                              -Si se descubre una casilla con una mina, se pierde la partida :(
+
+	                                              -Si se descubren todas las casillas sin mina, se gana la partida :)
+
+
+					                                                  CONTROLES
+
+                                                      -Utilice W, A, S y D o las teclas de dirección (flechas) para desplazarse por 
+	                                               el tablero.
+	                                              -Utilice ESPACIO para desubrir la casilla seleccionada.
+	                                              -Utilice B para marcar una casilla.
+						      -Utilice V para quitar la marca de la casilla.
+
+
+
+
+
+
+
+
+                                                                                                                                  ESC: Regresar

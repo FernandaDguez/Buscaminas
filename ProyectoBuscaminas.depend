@@ -1,0 +1,749 @@
+# depslib dependency file v1.0
+1527649641 source:c:\users\nicol\desktop\programación\proyectobuscaminas\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"Juego.h"
+
+1527618299 c:\users\nicol\desktop\programación\proyectobuscaminas\impresion.h
+
+1527649792 c:\users\nicol\desktop\programación\proyectobuscaminas\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527649792 c:\users\nicol\desktop\programación\proyectobuscaminas\gestion.h
+
+1527649793 c:\users\nicol\desktop\programación\proyectobuscaminas\juego.h
+
+1527633904 source:c:\users\nicol\desktop\programación\proyectobuscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527630592 source:c:\users\nicol\desktop\programación\proyectobuscaminas\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527618299 source:c:\users\nicol\desktop\programación\proyectobuscaminas\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Consola.h"
+
+1527633904 source:c:\users\nicol\desktop\programación\proyectobuscaminas\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527663865 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminas\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Consola.h"
+
+1527663739 c:\users\ricar\desktop\christopher =)\proyectobuscaminas\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527664156 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminas\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"Juego.h"
+
+1527649876 c:\users\ricar\desktop\christopher =)\proyectobuscaminas\impresion.h
+
+1527649876 c:\users\ricar\desktop\christopher =)\proyectobuscaminas\gestion.h
+
+1527649876 c:\users\ricar\desktop\christopher =)\proyectobuscaminas\juego.h
+
+1527649876 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminas\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527649876 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminas\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527664123 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1555819240 source:e:\proyectobuscaminas\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+	"GeneraArreglos.h"
+
+1527793284 e:\proyectobuscaminas\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527793282 source:e:\proyectobuscaminas\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527793284 e:\proyectobuscaminas\impresion.h
+
+1527793282 e:\proyectobuscaminas\gestion.h
+
+1527720738 e:\proyectobuscaminas\juego.h
+
+1527793284 source:e:\proyectobuscaminas\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527720780 source:e:\proyectobuscaminas\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527793286 source:e:\proyectobuscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527793286 source:e:\proyectobuscaminas\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527793286 source:e:\proyectobuscaminas\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527793284 e:\proyectobuscaminas\generaarreglos.h
+
+1527793286 e:\proyectobuscaminas\creadestruyearreglo.h
+
+1527793288 e:\proyectobuscaminas\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527747752 source:c:\users\mfda_\desktop\proyectobuscaminas\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+	"Juego.h"
+
+1527746286 c:\users\mfda_\desktop\proyectobuscaminas\gestion.h
+
+1527746286 c:\users\mfda_\desktop\proyectobuscaminas\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527746288 c:\users\mfda_\desktop\proyectobuscaminas\impresion.h
+
+1527746290 c:\users\mfda_\desktop\proyectobuscaminas\juego.h
+
+1527746290 source:c:\users\mfda_\desktop\proyectobuscaminas\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527746288 source:c:\users\mfda_\desktop\proyectobuscaminas\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527746292 c:\users\mfda_\desktop\proyectobuscaminas\generaarreglos.h
+
+1527747984 source:c:\users\mfda_\desktop\proyectobuscaminas\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"Juego.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527746290 c:\users\mfda_\desktop\proyectobuscaminas\creadestruyearreglo.h
+
+1527746290 c:\users\mfda_\desktop\proyectobuscaminas\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527746290 source:c:\users\mfda_\desktop\proyectobuscaminas\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527746290 source:c:\users\mfda_\desktop\proyectobuscaminas\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527746284 source:c:\users\mfda_\desktop\proyectobuscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527753804 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+	"Juego.h"
+
+1527748806 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\gestion.h
+
+1527753804 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527748808 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\impresion.h
+
+1527748808 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\juego.h
+
+1527748806 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527748806 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527748806 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\generaarreglos.h
+
+1527750849 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"Juego.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527748806 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\creadestruyearreglo.h
+
+1527748808 c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527748806 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527750021 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527748808 source:c:\users\ricar\desktop\christopher =)\proyectobuscaminasr\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527754194 source:c:\users\nicol\desktop\proyectobuscaminaspro\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527754196 source:c:\users\nicol\desktop\proyectobuscaminaspro\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527754194 c:\users\nicol\desktop\proyectobuscaminaspro\generaarreglos.h
+
+1527754196 source:c:\users\nicol\desktop\proyectobuscaminaspro\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527754198 c:\users\nicol\desktop\proyectobuscaminaspro\impresion.h
+
+1527757473 c:\users\nicol\desktop\proyectobuscaminaspro\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527754202 source:c:\users\nicol\desktop\proyectobuscaminaspro\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527754202 c:\users\nicol\desktop\proyectobuscaminaspro\juego.h
+
+1527757473 c:\users\nicol\desktop\proyectobuscaminaspro\gestion.h
+
+1527754202 source:c:\users\nicol\desktop\proyectobuscaminaspro\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527755573 source:c:\users\nicol\desktop\proyectobuscaminaspro\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+	"Juego.h"
+
+1527755641 source:c:\users\nicol\desktop\proyectobuscaminaspro\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"Juego.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527754194 c:\users\nicol\desktop\proyectobuscaminaspro\creadestruyearreglo.h
+
+1527754202 c:\users\nicol\desktop\proyectobuscaminaspro\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527762003 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasmegapro\gestion.h
+
+1527761995 c:\users\nicol\desktop\proyectobuscaminasmegapro\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasmegapro\impresion.h
+
+1527760979 c:\users\nicol\desktop\proyectobuscaminasmegapro\juego.h
+
+1527761995 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527761995 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasmegapro\generaarreglos.h
+
+1527762010 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasmegapro\creadestruyearreglo.h
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasmegapro\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527761995 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527760986 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\juego.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"Juego.h"
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527761995 source:c:\users\nicol\desktop\proyectobuscaminasmegapro\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527762003 source:c:\users\nicol\desktop\proyectobuscaminasultramegapro\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+
+1527782468 c:\users\nicol\desktop\proyectobuscaminasultramegapro\gestion.h
+
+1527761995 c:\users\nicol\desktop\proyectobuscaminasultramegapro\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasultramegapro\impresion.h
+
+1527762443 source:c:\users\nicol\desktop\proyectobuscaminasultramegapro\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasultramegapro\generaarreglos.h
+
+1527761995 source:c:\users\nicol\desktop\proyectobuscaminasultramegapro\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527782212 source:c:\users\nicol\desktop\proyectobuscaminasultramegapro\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527781522 source:c:\users\nicol\desktop\proyectobuscaminasultramegapro\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasultramegapro\creadestruyearreglo.h
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminasultramegapro\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527781076 source:c:\users\nicol\desktop\proyectobuscaminasultramegapro\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527782511 source:c:\users\nicol\desktop\proyectobuscaminas\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+	"GeneraArreglos.h"
+
+1527782468 c:\users\nicol\desktop\proyectobuscaminas\gestion.h
+
+1527761995 c:\users\nicol\desktop\proyectobuscaminas\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminas\impresion.h
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminas\generaarreglos.h
+
+1527781076 source:c:\users\nicol\desktop\proyectobuscaminas\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527762443 source:c:\users\nicol\desktop\proyectobuscaminas\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527781522 source:c:\users\nicol\desktop\proyectobuscaminas\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminas\creadestruyearreglo.h
+
+1527762443 c:\users\nicol\desktop\proyectobuscaminas\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527761995 source:c:\users\nicol\desktop\proyectobuscaminas\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527782212 source:c:\users\nicol\desktop\proyectobuscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
+1527793286 source:c:\users\mfda_\downloads\proyectobuscaminas\consola.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"Gestion.h"
+	"Consola.h"
+	"Impresion.h"
+	"GeneraArreglos.h"
+
+1527793282 c:\users\mfda_\downloads\proyectobuscaminas\gestion.h
+
+1527793284 c:\users\mfda_\downloads\proyectobuscaminas\consola.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1527793284 c:\users\mfda_\downloads\proyectobuscaminas\impresion.h
+
+1527793284 c:\users\mfda_\downloads\proyectobuscaminas\generaarreglos.h
+
+1527793286 source:c:\users\mfda_\downloads\proyectobuscaminas\creadestruyearreglo.cpp
+	<iostream>
+	<new>
+
+1527793286 source:c:\users\mfda_\downloads\proyectobuscaminas\generaarreglos.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"GeneraArreglos.h"
+
+1527793282 source:c:\users\mfda_\downloads\proyectobuscaminas\gestion.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<new>
+	"Impresion.h"
+	"Consola.h"
+	"Gestion.h"
+	"CreaDestruyeArreglo.h"
+	"GeneraArreglos.h"
+	"Plantillas.h"
+
+1527793286 c:\users\mfda_\downloads\proyectobuscaminas\creadestruyearreglo.h
+
+1527793288 c:\users\mfda_\downloads\proyectobuscaminas\plantillas.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	<new>
+
+1527793284 source:c:\users\mfda_\downloads\proyectobuscaminas\impresion.cpp
+	<windows.h>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<fstream>
+	<locale.h>
+	"Impresion.h"
+	"Consola.h"
+
+1527793286 source:c:\users\mfda_\downloads\proyectobuscaminas\main.cpp
+	<iostream>
+	<cstdlib>
+	<cctype>
+	<conio.h>
+	"Consola.h"
+	"Impresion.h"
+	"Gestion.h"
+
